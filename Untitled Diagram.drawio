@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T06:38:30.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lfzuStNKyEWeiKIu3p7y" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T06:43:57.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="leigE8hU-TkeBZZcnNiL" version="13.11.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-1" value="Internetas" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="700" y="290" width="176.98" height="111.5" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="176.98" height="111.5" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-2" value="Mobili darbo vieta&lt;br&gt;(nešiojamas kompiuteris)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="315.75" width="54" height="60" as="geometry" />
+          <mxGeometry x="1296.5" y="380" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-3" value="Mobili darbo vieta&lt;br&gt;(planšetė/telefonas)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/pda.svg;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="325.75" width="27" height="50" as="geometry" />
+          <mxGeometry x="1310" y="260" width="27" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-29" value="Interneto linija&lt;br&gt;(dubliuota)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;shape=link;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-12" target="Qnc5R-Qy2l6LQjeW2h2R-1">
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-29" value="Centrinio ofiso &lt;br&gt;interneto linija&lt;br&gt;(dubliuota)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;shape=link;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-12" target="Qnc5R-Qy2l6LQjeW2h2R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-34" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1">
@@ -99,6 +99,21 @@
             <mxPoint x="750" y="620" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-48" value="" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-49" value="" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-50" value="Internetas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="764.49" y="345.75" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
