@@ -1,149 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T10:02:48.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dz63tIyoIVTwe9_ZLwNR" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T10:11:00.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GkMKnAYtrWUVJF5aAU6f" version="13.11.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="2844" dy="3517.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-71" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-1610" width="1150" height="1440" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-69" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;align=left;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50.08771929824562" y="-1587.2057811424638" width="1139.9122807017543" height="485.6159669649003" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-69" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;align=left;fillColor=#FFFFFF;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="10.087719298245617" y="22.794218857536137" width="1139.9122807017543" height="485.6159669649003" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="50.08771929824562" y="-724.9896765313144" width="1139.9122807017543" height="554.9896765313146" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="10.087719298245617" y="885.0103234686856" width="1139.9122807017543" height="554.9896765313146" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-66" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;align=left;fillColor=#E1D5E7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="332.54385964912285" y="-703.6820371644872" width="766.6666666666667" height="523.7715072264282" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-66" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;align=left;fillColor=#E1D5E7;strokeColor=none;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="292.54385964912285" y="906.3179628355128" width="766.6666666666667" height="523.7715072264282" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483.85964912280707" y="-982.6634549208533" width="175.39606149326806" height="110.50209547123625" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;html=1;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="443.85964912280707" y="627.3365450791467" width="175.39606149326806" height="110.50209547123625" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-2" value="Mobili darbo vieta&lt;br&gt;(nešiojamas kompiuteris)&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="1085.5921052631581" y="-903.3792154163799" width="53.51670991432069" height="59.46301101591188" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-2" value="Mobili darbo vieta&lt;br&gt;(nešiojamas kompiuteris)&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="1045.5921052631581" y="706.6207845836201" width="53.51670991432069" height="59.46301101591188" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-3" value="Mobili darbo vieta&lt;br&gt;(planšetė/telefonas)&lt;br&gt;(AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/pda.svg;" vertex="1" parent="1">
+          <mxGeometry x="1099.2105263157896" y="-1052.0371644872675" width="26.758354957160346" height="49.55250917992656" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-3" value="Mobili darbo vieta&lt;br&gt;(planšetė/telefonas)&lt;br&gt;(AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/pda.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="1059.2105263157896" y="557.9628355127323" width="26.758354957160346" height="49.55250917992656" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-29" value="Centrinio ofiso &lt;br&gt;interneto linija&lt;br&gt;(dubliuota)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;shape=link;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-12" target="Qnc5R-Qy2l6LQjeW2h2R-1">
+          <mxGeometry x="40" y="-1610" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-29" value="Centrinio ofiso &lt;br&gt;interneto linija&lt;br&gt;(dubliuota)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;shape=link;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-12" target="Qnc5R-Qy2l6LQjeW2h2R-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-4" value="Switch (LAN)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/wiring_hub.svg;" vertex="1" parent="1">
+          <mxGeometry x="502.5118421052632" y="-675.4370268410186" width="138.74702570379438" height="94.34797747858018" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-4" value="Switch (LAN)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/wiring_hub.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="462.5118421052632" y="934.5629731589814" width="138.74702570379438" height="94.34797747858018" as="geometry" />
-        </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endFill=0;anchorPointDirection=0;endArrow=none;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-5" target="Qnc5R-Qy2l6LQjeW2h2R-4">
-          <mxGeometry x="141.2280701754386" y="845.3682037164488" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endFill=0;anchorPointDirection=0;endArrow=none;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-5" target="Qnc5R-Qy2l6LQjeW2h2R-4">
+          <mxGeometry x="181.2280701754386" y="-764.6317962835512" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-26" value="LAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qnc5R-Qy2l6LQjeW2h2R-8">
           <mxGeometry x="-0.1787" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-5" value="Kompiuteriai ofise&lt;br&gt;Darbo vieta #1&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;labelBackgroundColor=none;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="453.4328947368422" y="1236.3386097728837" width="53.51670991432069" height="59.46301101591188" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-5" value="Kompiuteriai ofise&lt;br&gt;Darbo vieta #1&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="493.4328947368422" y="-373.66139022711627" width="53.51670991432069" height="59.46301101591188" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-9" value="LAN" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endFill=0;anchorPointDirection=0;elbow=vertical;endSize=0;startSize=0;endArrow=none;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-6" target="Qnc5R-Qy2l6LQjeW2h2R-4">
-          <mxGeometry x="-262.280701754386" y="330.020646937371" as="geometry">
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-9" value="LAN" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endFill=0;anchorPointDirection=0;elbow=vertical;endSize=0;startSize=0;endArrow=none;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-6" target="Qnc5R-Qy2l6LQjeW2h2R-4">
+          <mxGeometry x="-222.28070175438597" y="-1279.979353062629" as="geometry">
             <mxPoint y="22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-6" value="Kompiuteriai ofise&lt;br&gt;Darbo vieta #n+1&lt;br&gt;(OS: W10 AAD joined)&lt;br&gt;&lt;b&gt;Finansų apskaitos programa galimi variantai:&lt;/b&gt;&lt;br&gt;1. Jei prižiūrime patys: RDP prisijungimas prie Azure VM&lt;br&gt;2. Jei perkame iš 3-ių šalių: SaaS per HTTPS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;labelBackgroundColor=none;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="675.8771929824562" y="1238.8162422573987" width="53.51670991432069" height="59.46301101591188" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-6" value="Kompiuteriai ofise&lt;br&gt;Darbo vieta #n+1&lt;br&gt;(OS: W10 AAD joined)&lt;br&gt;&lt;b&gt;Finansų apskaitos programa galimi variantai:&lt;/b&gt;&lt;br&gt;1. Jei prižiūrime patys: RDP prisijungimas prie Azure VM&lt;br&gt;2. Jei perkame iš 3-ių šalių: SaaS per HTTPS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715.8771929824562" y="-371.1837577426013" width="53.51670991432069" height="59.46301101591188" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-7" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)&lt;br&gt;(Svečių kompiuteriai)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="181.57894736842107" y="1231.8788713007573" width="53.51670991432069" height="59.46301101591188" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-7" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)&lt;br&gt;(Svečių kompiuteriai)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="126.20894736842106" y="-393.98112869924273" width="53.51670991432069" height="59.46301101591188" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-12" value="ISP dubliuotas įrenginys&lt;br&gt;interneto ryšiui" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="507.9065789473685" y="865.1892635925673" width="49.55250917992656" height="41.12858261933905" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-12" value="ISP dubliuotas įrenginys&lt;br&gt;interneto ryšiui" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;" vertex="1" parent="1">
+          <mxGeometry x="547.9065789473684" y="-744.8107364074327" width="49.55250917992656" height="41.12858261933905" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-13" value="LAN spausdintuvai" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="857.4561403508771" y="1192.2367515485205" width="56.49122807017544" height="46.57949070887818" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-13" value="LAN spausdintuvai" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;" vertex="1" parent="1">
+          <mxGeometry x="897.4561403508771" y="-417.7632484514795" width="56.49122807017544" height="46.57949070887818" as="geometry" />
         </mxCell>
         <object label="LAN" placeholders="1" id="Qnc5R-Qy2l6LQjeW2h2R-18">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-14" target="Qnc5R-Qy2l6LQjeW2h2R-4">
-            <mxGeometry x="141.2280701754386" y="845.3682037164488" as="geometry" />
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-14" target="Qnc5R-Qy2l6LQjeW2h2R-4">
+            <mxGeometry x="181.2280701754386" y="-764.6317962835512" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-14" value="WIFI&lt;br&gt;AP" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.session_border_controller;movableLabel=1;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="221.92982456140354" y="955.9697178251895" width="59.51754385964913" height="51.53475567790778" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-14" value="WIFI&lt;br&gt;AP" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.session_border_controller;movableLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="359.9998245614035" y="-518.8502821748104" width="59.51754385964913" height="51.53475567790778" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-24" value="LAN" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-15" target="Qnc5R-Qy2l6LQjeW2h2R-4">
-          <mxGeometry x="-262.280701754386" y="330.020646937371" as="geometry">
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-24" value="LAN" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-15" target="Qnc5R-Qy2l6LQjeW2h2R-4">
+          <mxGeometry x="-222.28070175438597" y="-1279.979353062629" as="geometry">
             <mxPoint x="3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-15" value="Konferencinė įranga&lt;br&gt;(susitikimų kambariai)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="917.9824561403509" y="1028.9112181693051" width="59.51754385964913" height="44.59738472126635" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-15" value="Konferencinė įranga&lt;br&gt;(susitikimų kambariai)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="957.9824561403509" y="-581.0887818306949" width="59.51754385964913" height="44.59738472126635" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-39" value="Centrinis ofisas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;fontStyle=1" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="10.087719298245617" y="855.2787336545081" width="160" height="30" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-39" value="Centrinis ofisas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50.08771929824562" y="-754.7212663454919" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="199.73684210526318" y="1172.4156916724023" width="49.55250917992656" height="49.55250917992656" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="179.7268421052632" y="-423.2143083275977" width="49.55250917992656" height="49.55250917992656" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=-180;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="226.46929824561403" y="1043.5788024776327" width="49.55250917992656" height="49.55250917992656" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="303.169298245614" y="-518.8511975223672" width="49.55250917992656" height="49.55250917992656" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-44" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="63.55263157894737" y="1132.7735719201653" width="53.51670991432069" height="59.46301101591188" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-44" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)&lt;br&gt;(OS: W10 AAD joined)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="126.21263157894737" y="-559.9964280798347" width="53.51670991432069" height="59.46301101591188" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=30;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="90.78947368421053" y="1093.1314521679285" width="49.55250917992656" height="49.55250917992656" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=105;" vertex="1" parent="1">
+          <mxGeometry x="182.10947368421054" y="-555.0385478320715" width="49.55250917992656" height="49.55250917992656" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LAN&lt;/font&gt;" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-13" target="Qnc5R-Qy2l6LQjeW2h2R-4">
-          <mxGeometry x="-0.0224" y="-4" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="443.85964912280707" y="994.0261527873367" as="sourcePoint" />
-            <mxPoint x="494.2982456140351" y="944.4735030970407" as="targetPoint" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LAN&lt;/font&gt;" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-13" target="Qnc5R-Qy2l6LQjeW2h2R-4">
+          <mxGeometry x="40" y="-1610" width="50" height="50" as="geometry">
+            <mxPoint x="483.85964912280707" y="-615.9738472126633" as="sourcePoint" />
+            <mxPoint x="534.2982456140351" y="-665.5264969029593" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-48" value="Interneto ryšys" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="443.85964912280707" y="686.7997247075018" as="sourcePoint" />
-            <mxPoint x="494.2982456140351" y="637.2470750172059" as="targetPoint" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-48" value="Interneto ryšys" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-3">
+          <mxGeometry x="40" y="-1610" width="50" height="50" as="geometry">
+            <mxPoint x="483.85964912280707" y="-923.2002752924982" as="sourcePoint" />
+            <mxPoint x="534.2982456140351" y="-972.7529249827941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-49" value="Interneto ryšys" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="443.85964912280707" y="686.7997247075018" as="sourcePoint" />
-            <mxPoint x="494.2982456140351" y="637.2470750172059" as="targetPoint" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-49" value="Interneto ryšys" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-2">
+          <mxGeometry x="40" y="-1610" width="50" height="50" as="geometry">
+            <mxPoint x="483.85964912280707" y="-923.2002752924982" as="sourcePoint" />
+            <mxPoint x="534.2982456140351" y="-972.7529249827941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-50" value="Internetas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="508.915350877193" y="672.6772195457675" width="40.350877192982466" height="19.82105987611838" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-50" value="Internetas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="548.9153508771931" y="-937.3227804542325" width="40.350877192982466" height="19.82105987611838" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="372.22675438596497" y="240.8258774948383" width="321.7881578947369" height="190.93626978664835" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="412.22675438596497" y="-1369.1741225051617" width="321.7881578947369" height="190.93626978664835" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-52" value="" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-51">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="443.85964912280707" y="577.7838953888509" as="sourcePoint" />
-            <mxPoint x="494.2982456140351" y="528.2312456985547" as="targetPoint" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-52" value="" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-51">
+          <mxGeometry x="40" y="-1610" width="50" height="50" as="geometry">
+            <mxPoint x="483.85964912280707" y="-1032.2161046111491" as="sourcePoint" />
+            <mxPoint x="534.2982456140351" y="-1081.7687543014454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-53" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure VMs:&lt;/b&gt;&lt;/font&gt;&lt;br&gt;1.&amp;nbsp;Finansų apskaitos programa&lt;br&gt;2. Virtualios mašinos kitiems sprendimams&lt;br&gt;(www hostingas, specializuotos programos ir pan.)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.windows_server;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="807.0175438596491" y="330.020646937371" width="52.45614035087719" height="54.50791465932554" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-53" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure VMs:&lt;/b&gt;&lt;/font&gt;&lt;br&gt;1.&amp;nbsp;Finansų apskaitos programa&lt;br&gt;2. Virtualios mašinos kitiems sprendimams&lt;br&gt;(www hostingas, specializuotos programos ir pan.)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.windows_server;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="847.0175438596491" y="-1279.979353062629" width="52.45614035087719" height="54.50791465932554" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-54" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure AD:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. Domenas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. Vartotojų tapatybė&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Priegų valdymas&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.universal_security_group;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="191.66666666666669" y="332.0027529249828" width="58.50877192982457" height="57.4810736407433" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-54" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure AD:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. Domenas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. Vartotojų tapatybė&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Priegų valdymas&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.universal_security_group;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="231.66666666666669" y="-1277.9972470750172" width="58.50877192982457" height="57.4810736407433" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-55" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Intune:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. Mobilių įrenginių valdymas:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;kompiuteriai, telefonai, planšetės.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. OS ir programinės įrangos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;instaliacija, naujinimas.&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.scom;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="256.22807017543863" y="151.6311080523056" width="56.49122807017544" height="52.525808671713705" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-55" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Intune:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. Mobilių įrenginių valdymas:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;kompiuteriai, telefonai, planšetės.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. OS ir programinės įrangos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;instaliacija, naujinimas.&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.scom;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="296.22807017543863" y="-1458.3688919476945" width="56.49122807017544" height="52.525808671713705" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-56" value="&lt;h1 class=&quot;ow-prod-name ow-headinghelper-1 &quot; style=&quot;box-sizing: inherit ; margin: 0px ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Microsoft 365 Business Premium&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;(&amp;lt;300 vartotojų)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="403.50877192982455" y="369.6627666896078" width="232.01754385964915" height="19.82105987611838" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-56" value="&lt;h1 class=&quot;ow-prod-name ow-headinghelper-1 &quot; style=&quot;box-sizing: inherit ; margin: 0px ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Microsoft 365 Business Premium&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;(&amp;lt;300 vartotojų)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443.50877192982455" y="-1240.337233310392" width="232.01754385964915" height="19.82105987611838" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-60" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Darbo komandoje įrankiai:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1. Teams (Balso/video skambučiai, chat)&lt;br&gt;2. El.paštas&lt;br&gt;3. Failų saugykla su backup&#39;u&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.users.communications;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="474.12280701754395" y="52.525808671713705" width="54.47368421052632" height="57.4810736407433" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-60" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Darbo komandoje įrankiai:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1. Teams (Balso/video skambučiai, chat)&lt;br&gt;2. El.paštas&lt;br&gt;3. Failų saugykla su backup&#39;u&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.users.communications;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="514.1228070175439" y="-1557.4741913282862" width="54.47368421052632" height="57.4810736407433" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-63" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Dokumentų valdymas:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. SharePoint online sprendimai su backup&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. Duomenų saugos sprendimai (GDPR, DLP)&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.services.network_file_share_service;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="751.5350877192983" y="151.6311080523056" width="55.482456140350884" height="52.525808671713705" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-63" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Dokumentų valdymas:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1. SharePoint online sprendimai su backup&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2. Duomenų saugos sprendimai (GDPR, DLP)&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.services.network_file_share_service;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="791.5350877192983" y="-1458.3688919476945" width="55.482456140350884" height="52.525808671713705" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-64" value="&lt;font style=&quot;font-size: 39px&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry x="569.9561403508771" y="1256.6551961459052" width="40.350877192982466" height="18.83000688231246" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-64" value="&lt;font style=&quot;font-size: 39px&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="609.9561403508771" y="-353.34480385409483" width="40.350877192982466" height="18.83000688231246" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-70" value="Debesijos paslaugos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=19;fontStyle=1" vertex="1" parent="Qnc5R-Qy2l6LQjeW2h2R-71">
-          <mxGeometry width="221.92982456140354" height="19.82105987611838" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-70" value="Debesijos paslaugos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1610" width="221.92982456140354" height="19.82105987611838" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-73" style="edgeStyle=none;shape=link;rounded=0;jumpStyle=arc;jumpSize=2;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontSize=19;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-44" target="Qnc5R-Qy2l6LQjeW2h2R-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
