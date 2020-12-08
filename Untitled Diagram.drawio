@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T06:43:57.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="leigE8hU-TkeBZZcnNiL" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T06:59:13.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hdnDpAF-81C02TJ1Rrl4" version="13.11.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -54,7 +54,7 @@
           <mxGeometry x="804.49" y="930" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-7" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="485" y="920" width="54" height="60" as="geometry" />
+          <mxGeometry x="480" y="900" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-12" value="ISP įrenginys&lt;br&gt;interneto ryšiui" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;" vertex="1" parent="1">
           <mxGeometry x="763.49" y="540" width="50" height="41.5" as="geometry" />
@@ -82,16 +82,16 @@
           <mxGeometry x="310" y="530" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="487" y="870" width="50" height="50" as="geometry" />
+          <mxGeometry x="484" y="850" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="720" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-44" value="Kompiuteriai ofise&lt;br&gt;(bevielis ryšys)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="920" width="54" height="60" as="geometry" />
+          <mxGeometry x="350" y="830" width="54" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="372" y="870" width="50" height="50" as="geometry" />
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/wifi__wireless__internet__network__signal__connection__router-128.png;fontSize=19;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="380" y="790" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LAN&lt;/font&gt;" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-13" target="Qnc5R-Qy2l6LQjeW2h2R-4">
           <mxGeometry x="-0.0224" y="-4" width="50" height="50" relative="1" as="geometry">
@@ -114,6 +114,27 @@
         </mxCell>
         <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-50" value="Internetas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="764.49" y="345.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="628.99" y="-90" width="318.99" height="192.66" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-52" value="" style="endArrow=none;html=1;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="Qnc5R-Qy2l6LQjeW2h2R-1" target="Qnc5R-Qy2l6LQjeW2h2R-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="250" as="sourcePoint" />
+            <mxPoint x="750" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-53" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure VMs:&lt;/b&gt;&lt;/font&gt;&lt;br&gt;1.&amp;nbsp;Finansų apskaitos programa&lt;br&gt;2. Virtualios mašinos kitiems sprendimams" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=left;shape=mxgraph.office.servers.windows_server;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="52" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-54" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Azure AD:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Vartotojų tapatybė&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Priegų valdymas&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.universal_security_group;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-110" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-55" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Intune:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Mobilių įrenginių valdymas:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;kompiuteriai, telefonai, planšetės&lt;/span&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.scom;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="604" y="-260" width="56" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnc5R-Qy2l6LQjeW2h2R-56" value="&lt;h1 class=&quot;ow-prod-name ow-headinghelper-1 &quot; style=&quot;box-sizing: inherit; margin: 0px; font-family: &amp;quot;segoe ui&amp;quot;, segoeui, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Microsoft 365 Business Premium&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;(100 vartotojų)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
